@@ -27,7 +27,7 @@ input[type="radio"] {
 
 .radio-group:nth-child(even) input[type="radio"],
 .radio-group:nth-child(even) label {
-    /* color: red; */
+    
 	color: rgb(255, 0, 0);
 }
 
